@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: C:\Users\ÀÑÊÐÎ\Documents\GitHub\1-wire master\1-wire master\PCB.PcbDoc
+RuleKind=Width|RuleName=1-WIRE|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=+3.3_1|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=+3.3|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=+5|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=+12|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
